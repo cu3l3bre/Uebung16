@@ -18,5 +18,4 @@ public:
 	virtual double berechneFlaeche() = 0;
 	virtual double berechneUmfang() = 0;
 	virtual void zeichneForm() = 0;
-
 };
